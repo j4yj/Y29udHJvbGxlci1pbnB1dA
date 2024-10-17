@@ -4,7 +4,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(https://imgur.com/By6DpSr.png);
+    background: url(Assets/Controller_Images/PS5_White_IMG/White_SkinNo_Buttons.png);
     width: 807px;
     height: 651px;
     margin-left: 0;
@@ -15,7 +15,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(https://imgur.com/Z5LNKDT.png);
+    background: url(Assets/Controller_Images/PS5_White_IMG/Sticks.png);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -29,7 +29,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(https://imgur.com/EiIqCN1.png);
+    background: url(Assets/Controller_Images/PS5_White_IMG/FaceButtons.png);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -39,7 +39,6 @@ body {
     background-position: 0 0;
     left: 61px;
     top: 123px;
-} .xbox .b {
     background-position: -59px 0;
     left: 123px;
     top: 62px;
@@ -72,7 +71,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(https://imgur.com/JsJCRZu.png);
+    background: url(Assets/Controller_Images/PS5_White_IMG/Dpad.png);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
@@ -104,7 +103,7 @@ body {
     left: 93px;
     top: 114px;
 } .xbox .bumper {
-    background: url(https://imgur.com/CviCXKk.png);
+    background: url(Assets/Controller_Images/PS5_White_IMG/Bumper.png);
     width: 110px;
     height: 35px;
     opacity: 0;
@@ -113,7 +112,7 @@ body {
     height: 108px;
     left: 94px;
 } .xbox .trigger {
-    background: url(https://imgur.com/zyIXD9C.png);
+    background: url(Assets/Controller_Images/PS5_White_IMG/Trigger_Pressed.png);
     width: 111px;
     height: 108px;
     opacity: 0;
