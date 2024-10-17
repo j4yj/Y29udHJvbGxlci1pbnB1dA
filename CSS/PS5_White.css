@@ -14,7 +14,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(https://i.imgur.com/fJIyBwn.png);
+    background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Body.png);
     width: 807px;
     height: 651px;
     margin-left: 0;
@@ -25,7 +25,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(https://i.imgur.com/nXaGdI2.png);
+    background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Stick.png);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -39,7 +39,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(https://i.imgur.com/DVqDSsJ.png);
+    background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Buttons.png);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -69,7 +69,7 @@ body {
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
-    background: url(https://i.imgur.com/YJRVQxC.png);
+    background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/YJRVQxC.png);
     width: 27px;
     height: 57px;
     opacity: 0;
@@ -82,7 +82,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(https://i.imgur.com/hCmzXWK.png);
+    background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Arrows.png);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
@@ -114,7 +114,7 @@ body {
     left: 93px;
     top: 114px;
 } .xbox .bumper {
-    background: url(https://i.imgur.com/2YssqRT.png);
+    background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Bumper.png);
     width: 110px;
     height: 35px;
     opacity: 0;
@@ -123,7 +123,7 @@ body {
     height: 108px;
     left: 94px;
 } .xbox .trigger {
-    background: url(https://i.imgur.com/LsxmGBD.png);
+    background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Triggers.png);
     width: 111px;
     height: 108px;
     opacity: 0;
