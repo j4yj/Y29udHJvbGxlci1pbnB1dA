@@ -1,10 +1,20 @@
+/* -- PS5 Skin for GamepadViewer | "Forked" from CrazyGrape -- 
+Steps so I don't forget:
+1. Go to GamepadViewer.com and generate a URL (make sure to USE THE XBOX SKIN)
+2. Generate your URL once the settings are correct and copy it to your clipboard
+3. In OBS, create a new browser source
+4. In the URL Screen, paste the link copied from GamepadViewer.com
+5. Set the width to 807 and the height to 651
+6. Paste the contents of this CSS file into the Custom CSS field
+7. Click Done.
+*/
 body { 
     background-color: #000000; 
     background-color: RGBA(0, 0, 0, 0); 
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(https://imgur.com/GOxEHIt);
+    background: url(https://i.imgur.com/fJIyBwn.png);
     width: 807px;
     height: 651px;
     margin-left: 0;
@@ -15,7 +25,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(Assets/Controller_Images/PS5_White_IMG/Sticks.png);
+    background: url(https://i.imgur.com/nXaGdI2.png);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -29,7 +39,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(Assets/Controller_Images/PS5_White_IMG/FaceButtons.png);
+    background: url(https://i.imgur.com/DVqDSsJ.png);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -59,7 +69,7 @@ body {
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
-    background: url(https://imgur.com/0iEovvx.png);
+    background: url(https://i.imgur.com/YJRVQxC.png);
     width: 27px;
     height: 57px;
     opacity: 0;
@@ -72,7 +82,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(Assets/Controller_Images/PS5_White_IMG/Dpad.png);
+    background: url(https://i.imgur.com/hCmzXWK.png);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
@@ -104,7 +114,7 @@ body {
     left: 93px;
     top: 114px;
 } .xbox .bumper {
-    background: url(Assets/Controller_Images/PS5_White_IMG/Bumper.png);
+    background: url(https://i.imgur.com/2YssqRT.png);
     width: 110px;
     height: 35px;
     opacity: 0;
@@ -113,7 +123,7 @@ body {
     height: 108px;
     left: 94px;
 } .xbox .trigger {
-    background: url(Assets/Controller_Images/PS5_White_IMG/Trigger_Pressed.png);
+    background: url(https://i.imgur.com/LsxmGBD.png);
     width: 111px;
     height: 108px;
     opacity: 0;
@@ -121,3 +131,8 @@ body {
     background-position: -113px 0;
 	transform: rotateY(0);
 }
+/*
+The general design of the DualSense (tm) controller, as well as the PlayStation (tm) logo, are the intellectual property of Sony.
+Vectorized design referenced in the images linked above: copyright (c) CrazyGrape 2021
+This work is licensed under a Creative Commons Attribution 3.0 United States License. The terms of this license are available at https://creativecommons.org/licenses/by/3.0/us/
+*/
