@@ -4,7 +4,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(Assets/Controller_Images/PS5_White_IMG/White_SkinNo_Buttons.png);
+    background: url(https://github.com/j4yj/controller-input/blob/7ac2c304ea4b1edcce4c1a70920bfa3bde1b3716/Assets/Controller_Images/PS5_White_IMG/White_SkinNo_Buttons.png);
     width: 807px;
     height: 651px;
     margin-left: 0;
