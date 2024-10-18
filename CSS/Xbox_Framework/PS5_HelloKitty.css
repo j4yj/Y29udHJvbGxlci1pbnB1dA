@@ -14,7 +14,8 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(https://i.imgur.com/ogqtuRz.png);
+    /* Controller Body */
+    background: url(https://github.com/j4yj/Y29udHJvbGxlci1pbnB1dA/blob/main/Assets/Controller_Images/PS5_HelloKitty_IMG/Body.png?raw=true);
     width: 807px;
     height: 651px;
     margin-left: 0;
@@ -25,7 +26,8 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(https://i.imgur.com/ta2IPNt.png);
+    /* Moving stick */
+    background: url(https://github.com/j4yj/Y29udHJvbGxlci1pbnB1dA/blob/main/Assets/Controller_Images/PS5_HelloKitty_IMG/Stick.png?raw=true);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -39,7 +41,8 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(https://i.imgur.com/txGB4mJ.png);
+    /* Play buttons X-O-A-Square*/
+    background: url(https://github.com/j4yj/Y29udHJvbGxlci1pbnB1dA/blob/main/Assets/Controller_Images/PS5_HelloKitty_IMG/Buttons.png?raw=true);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -69,7 +72,8 @@ body {
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
-    background: url(https://i.imgur.com/LMDWRjP.png);
+    /* Share button */
+    background: url(https://github.com/j4yj/Y29udHJvbGxlci1pbnB1dA/blob/main/Assets/Controller_Images/PS5_HelloKitty_IMG/Switch.png?raw=true);
     width: 27px;
     height: 57px;
     opacity: 0;
@@ -82,7 +86,8 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(https://i.imgur.com/f0ZWZ6i.png);
+    /* Arrows */
+    background: url(https://github.com/j4yj/Y29udHJvbGxlci1pbnB1dA/blob/main/Assets/Controller_Images/PS5_HelloKitty_IMG/Arrows.png?raw=true);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
@@ -114,7 +119,8 @@ body {
     left: 93px;
     top: 114px;
 } .xbox .bumper {
-    background: url(https://i.imgur.com/ebnMTlD.png);
+    /* L1 & R1 */
+    background: url(https://github.com/j4yj/Y29udHJvbGxlci1pbnB1dA/blob/main/Assets/Controller_Images/PS5_HelloKitty_IMG/Bumper.png?raw=true);
     width: 110px;
     height: 35px;
     opacity: 0;
@@ -123,7 +129,8 @@ body {
     height: 108px;
     left: 94px;
 } .xbox .trigger {
-    background: url(https://i.imgur.com/2whyxdK.png);
+    /* L2 & R2 */
+    background: url(https://github.com/j4yj/Y29udHJvbGxlci1pbnB1dA/blob/main/Assets/Controller_Images/PS5_HelloKitty_IMG/Triggers.png?raw=true);
     width: 111px;
     height: 108px;
     opacity: 0;
