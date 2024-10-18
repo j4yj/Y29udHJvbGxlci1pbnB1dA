@@ -14,6 +14,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
+    /* Controller Body */
     background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Body.png);
     width: 807px;
     height: 651px;
@@ -25,6 +26,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
+    /* Moving stick */
     background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Stick.png);
     width: 100px;
     height: 100px;
@@ -39,6 +41,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
+    /* Play buttons X-O-A-Square*/
     background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Buttons.png);
     width: 58px;
     height: 58px;
@@ -69,6 +72,7 @@ body {
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
+    /* Share button */
     background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/YJRVQxC.png);
     width: 27px;
     height: 57px;
@@ -82,6 +86,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
+    /* Arrows */
     background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Arrows.png);
     position: absolute;
     opacity: 0;
@@ -114,6 +119,7 @@ body {
     left: 93px;
     top: 114px;
 } .xbox .bumper {
+    /* L1 & R1 */
     background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Bumper.png);
     width: 110px;
     height: 35px;
@@ -123,6 +129,7 @@ body {
     height: 108px;
     left: 94px;
 } .xbox .trigger {
+    /* L2 & R2 */
     background: url(https://raw.githubusercontent.com/j4yj/controller-input/refs/heads/main/Assets/Controller_Images/PS5_White_IMG/Triggers.png);
     width: 111px;
     height: 108px;
