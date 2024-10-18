@@ -1,1 +1,1 @@
-Used to make controlleroverlays using GamePad's CSS Code
+tmplt fr ctrl ovrl usng gmpad cs
